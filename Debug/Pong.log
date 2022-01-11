@@ -1,0 +1,4 @@
+﻿  Pong.cpp
+D:\Passion\Projects\SFML and C++\Pong\Pong.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Passion\Projects\SFML and C++\Pong\Pong.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Pong.vcxproj -> D:\Passion\Projects\SFML and C++\Pong\Debug\Pong.exe
